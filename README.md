@@ -18,10 +18,10 @@ One can reproduce the experiment with YOLOv5 on GROTOAP2 dataset here YOLOv5 on 
 
 # Document Layout Analysis as Text-Centric task
 
-One can reproduce the experiment with LayoutLMv3 on GROTOAP dataset using ...
+One can reproduce the experiment with LayoutLMv3 on GROTOAP dataset using token_class_layoutlmv3_grotoap2.ipynb
 
 One can reproduce the experiment with Paragraph2Graph on GROTOAP dataset using ...
 
 # Document Layout Analysis with LiLT
 
-One can reproduce the experiment with LiLT on GROTOAP2 dataset using ...
+One can reproduce the experiment with LiLT on GROTOAP2 dataset using LILT_GROTOAP2.ipynb
