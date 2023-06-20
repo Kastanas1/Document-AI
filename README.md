@@ -14,7 +14,7 @@ The preprocessing steps to split the pdfs into the first page and convert into d
 
 One can reproduce the experiment with LayoutLMv3 on DocLayNet dataset using LayoutLMv3_DocLayNet.ipynb   
 
-One can reproduce the experiment with LayoutLMv3 on GROTOAP2 dataset using ...
+One can reproduce the experiment with LayoutLMv3 on GROTOAP2 dataset using LayoutLMv3_GROTOAP2.ipynb
 
 One can reproduce the experiment with YOLOv5 on GROTOAP2 dataset here ...
 
