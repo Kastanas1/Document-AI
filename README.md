@@ -1,7 +1,12 @@
 # Document-AI
-The repository provided contains the source code corresponding to the thesis project entitled ...
+The repository provided contains the source code corresponding to my thesis project entitled 'Document AI: A Comparative Study of Transformer-Based, Graph-Based Models, and Convolutional Neural Networks for
+Document Layout Analysis'
+Here you can find the PDF
+
+We make the code available for all the experiments through jupyter notebooks. 
 
 # Document Layout Analysis as Image-Centric task
+Experiments with LayoutLMv3, YOLOv5 on DocLayNet and GROTOAP2 (first-pages) datasets.
 The preprocessing steps to convert XML from GROTOAP2 to COCO format are here ...
 The preprocessing steps to split the pdfs into the first page and convert into document images are here ...
 One can reproduce the experiment with LayoutLMv3 on DocLayNet dataset using ...
