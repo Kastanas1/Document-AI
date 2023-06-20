@@ -8,9 +8,7 @@ We make the code available for all the experiments through jupyter notebooks.
 # Document Layout Analysis as Image-Centric task
 Experiments with LayoutLMv3, YOLOv5 on DocLayNet and GROTOAP2 (first-pages) datasets.
 
-The preprocessing steps to convert XML from GROTOAP2 to COCO format are here ...
-
-The preprocessing steps to split the pdfs into the first page and convert into document images are here ...
+The preprocessing steps to convert XML from GROTOAP2 to COCO format are here CONVERT XML TO COCO.ipynb
 
 One can reproduce the experiment with LayoutLMv3 on DocLayNet dataset using LayoutLMv3_DocLayNet.ipynb   
 
